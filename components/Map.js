@@ -56,7 +56,6 @@ function Map({searchResults}) {
       </div>
     ))}
   </ReactMapGL>
-    ;
-}
+};
 
 export default Map;
