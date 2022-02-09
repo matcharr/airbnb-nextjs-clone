@@ -1492,8 +1492,8 @@ nanocolors@^0.2.2, nanocolors@^0.2.8:
   resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.2.11.tgz"
 
 nanoid@^3.1.23, nanoid@^3.1.25:
-  version "3.1.28"
-  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.1.28.tgz"
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
 
 next@latest:
   version "12.0.7"
